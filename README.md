@@ -27,3 +27,5 @@
 
 **certificate**
 ![certificate_acheivement_gbdi](https://user-images.githubusercontent.com/117358027/210767678-f345559c-e78e-4934-ad30-78c4542a787d.png)
+*หมายเหตุ Certificate of Achievement: ผู้เข้าอบรมจะต้องเข้าร่วมกิจกรรมไม่น้อยกว่าร้อยละ 80 ของเวลาจัดกิจกรรมทั้งหมด และได้คะแนนในการประเมินผลการอบรมไม่น้อยกว่าร้อยละ 70
+
