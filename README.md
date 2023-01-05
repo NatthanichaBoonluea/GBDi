@@ -22,9 +22,8 @@
 * 5.3.Clustering (kNN, Hierarchical clustering, k-mean clustering)
 * 5.4.Co-occurrence analysis (Content-based filtering, Collaborative filtering) 
 * 5.5.Performance evaluation and cost-benefit (Accuracy, ROC, RMSE, Cost-benefit)
-**Workshop
 
-link URL to activity in this program : https://drive.google.com/drive/folders/1s9wOvC4BJVhploL5ICYrGdWQawqFLEtn?usp=sharing
+**link URL to activity in this program :** https://drive.google.com/drive/folders/1s9wOvC4BJVhploL5ICYrGdWQawqFLEtn?usp=sharing
 
 **certificate**
 ![certificate_acheivement_gbdi](https://user-images.githubusercontent.com/117358027/210767678-f345559c-e78e-4934-ad30-78c4542a787d.png)
